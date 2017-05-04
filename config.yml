@@ -1,8 +1,8 @@
-
----
-name: Hana
+name: NETVEIWER
 description: >
-  Hana.
-version: 0.0.1-hana
-category: Toy Apps
-projectURL: https://github.com/nrvale0/rancher-cattle-demo
+          A Demo App which does almost nothing of any practical value.
+version: 0.0.1-rancher1
+category: HANA
+maintainer: Techwave <saikrishna.rayapati@techwave.net>
+license: not-licensed
+projectURL: https://www.hostlogic.hu/client_portal
